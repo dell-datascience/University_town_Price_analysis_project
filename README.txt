@@ -1,4 +1,4 @@
-Project Title: Ressilience of university town prices to recession
+Project Title: Resilience of university town prices to recession
 
 Programming Language used: Python
 
