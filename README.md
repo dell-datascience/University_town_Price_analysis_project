@@ -1,3 +1,5 @@
+![University town](https://publish.purewow.net/wp-content/uploads/sites/2/2021/04/best-college-towns-in-america-boulder-co.jpg?fit=728%2C524)
+
 Project Title: Resilience of university town prices to recession
 
 Programming Language used: Python
